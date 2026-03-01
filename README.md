@@ -50,10 +50,11 @@ This approach helped transform raw sales data into insights that support basic b
 
 
 ## Dashboard Preview
+### Executive Overview
+![Dashboard Overview](images/sales-profitability-analysis-1.png)
 
-![Dashboard Preview](sales-profitability-analysis-1.png)
-
-![Dashboard Preview](sales-profitability-analysis-2.png)
+### Category Analysis Overview
+![Dashboard Overview](images/sales-profitability-analysis-2.png)
 
 
 ## Dashboard Features & Technical Implementation
@@ -145,16 +146,17 @@ Through this project, I strengthened my ability to:
 * Improve dashboard usability and storytelling.
 
 
-## Repository Content
-'Sample - Superstore.csv' - Dataset
-'sales-profitability-analysis-1.png' - dashboard snapshot
-'sales-profitability-analysis-2.png' - dashboard snapshot
-'sales-profitability-analysis-powerbi.pdf' - pdf file
+## Repository Contents
+
+- **README.md** — Project documentation and dashboard explanation  
+- **dataset/Sample - Superstore.csv** — Superstore retail dataset used for analysis.
+- **images/sales-profitability-analysis-1.png** — Dashboard snapshot (Executive Overview)
+- **images/sales-profitability-analysis-2.png** — Dashboard snapshot (Category Analysis Overview)   
+- **export/sales-profitability-analysis-powerbi.pdf** — Exported PDF version of the Power BI dashboard.
 
 
----
-
-## 👤 Author
+## Author
 
 **Hokuto Sarayan**
+
 Aspiring Data Analyst | Power BI | Excel | Business Analytics
