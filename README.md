@@ -1,5 +1,5 @@
 # Sales & Profitability Analysis Dashboard (Power BI)
-Sales and profitability analysis dashboard built in Power BI using DAX, data modeling, and interactive business intelligence visualizations. This project demonstrates how transactional sales data can be transformed into actionable business insights to support strategic decision-making.
+Power BI dashboard analyzing sales and profitability using DAX and data modeling to transform transactional data into actionable business insights.
 
 
 ## Project Overview
@@ -149,7 +149,7 @@ Through this project, I strengthened my ability to:
 ## Repository Contents
 
 - **README.md** — Project documentation and dashboard explanation  
-- **dataset/Sample - Superstore.csv** — Superstore retail dataset used for analysis.
+- **data/Sample - Superstore.csv** — Superstore retail dataset used for analysis.
 - **images/sales-profitability-analysis-1.png** — Dashboard snapshot (Executive Overview)
 - **images/sales-profitability-analysis-2.png** — Dashboard snapshot (Category Analysis Overview)   
 - **export/sales-profitability-analysis-powerbi.pdf** — Exported PDF version of the Power BI dashboard.
